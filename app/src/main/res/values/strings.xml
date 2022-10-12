@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sum2Numbers</string>
+    <array name="movies">
+        <item>Matrix</item>
+        <item>Madagascar</item>
+        <item>Fast and Furious</item>
+        <item>Titanic</item>
+        <item>Avatar</item>
+    </array>
+</resources>
